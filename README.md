@@ -1,5 +1,5 @@
-## PCA 기반 얼굴인식 모듈 실습
-> Authentic/imposter histogram
+# PCA 기반 얼굴인식 모듈 실습
+> ## Authentic/imposter histogram
 > 
 > Eigenvector : 15
 > 
